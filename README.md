@@ -5,3 +5,16 @@ Secure query returned 0 rows.
 Run: python3 injection.py
 
 # cbersecurity  #SQLi #vulnerabilities
+
+## 📸proof
+
+## source code
+![source](./injection-pysource%20code.png
+
+
+### Vulnerable query dumps all users
+![Vulnerable](./injection-pyT.png)
+
+
+### secure query blocks it
+![Source](./injection-pytt.png)
