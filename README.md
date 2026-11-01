@@ -18,3 +18,7 @@ Run: python3 injection.py
 
 ### secure query blocks it
 ![Source](./injection-pytt.png)
+
+![Proof1](./injection-pyT.)
+![Proof2](./injection-pytt.png)
+![Proof3](./source-code.png)
